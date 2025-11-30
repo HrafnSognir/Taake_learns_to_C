@@ -22,8 +22,6 @@
 - [Effective C](https://www.amazon.com/Effective-Introduction-Professional-Robert-Seacord/dp/1718501048)
 - [C Documentation](https://devdocs.io/c/)
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)<br>
-
-#### Video:
   - [C Programming and OOP with Dr. Chuck](https://youtu.be/PaPN51Mm5qQ)
   - [C Programming Full Course](https://youtu.be/xND0t1pr3KY?list=PL5Sdu-vX2R3XPedgh8q0tBYuRTVWXOkMH)
 
@@ -33,18 +31,15 @@
 - [Ncurses Documentation](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
 - [GTK Documentation](https://docs.gtk.org/gtk4/getting_started.html)
 - [GTK 4 Tutorial for beginners](https://github.com/ToshioCP/Gtk4-tutorial)
+  - [Gtk4/GObject Tutorial Playlist](https://www.youtube.com/playlist?list=PLFnRB0VoVErpBiFZlMg_JAPKdJJobzyV3)
+  - [Ncurses Playlist](https://www.youtube.com/playlist?list=PLdNUbYq5poiUdmMdOgRLHneZn4NMc4yEX)
 
-#### Video
- - [Gtk4/GObject Tutorial Playlist](https://www.youtube.com/playlist?list=PLFnRB0VoVErpBiFZlMg_JAPKdJJobzyV3)
- - [Ncurses Playlist](https://www.youtube.com/playlist?list=PLdNUbYq5poiUdmMdOgRLHneZn4NMc4yEX)
 ---
 
 ### **_Game Development resources:_**
 - [Coding with Sphere's Intro to Raylib](https://www.youtube.com/watch?v=AniAoJC6QAc&t)
 - [Raylib Documentation](https://www.raylib.com/cheatsheet/cheatsheet.html)
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)<br>
-
-#### Video
   - [C Programming with Raylib – Match3 Game Tutorial](https://youtu.be/P7PMA3X1tf8?list=PL5Sdu-vX2R3XPedgh8q0tBYuRTVWXOkMH)
 
 ---
