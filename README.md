@@ -1,4 +1,4 @@
-# C projects by Taake
+# C projects by HrafnSognir
 #### Exploring low-level programming through small C projects.
 
 [![C](https://custom-icon-badges.demolab.com/badge/--%23282828.svg?logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
