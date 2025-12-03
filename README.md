@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/cbannr.svg" width="50%">
+  <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/cbannr.svg" width="65%">
 </p>
 
 
