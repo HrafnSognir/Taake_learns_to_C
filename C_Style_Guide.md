@@ -178,13 +178,13 @@ cache_enemy_data();  // Avoids recalculating enemy stats every frame
 
 ### **_Build:_**
 
-Use strict compiler flags.
+You should use strict compiler flags.
 
 ```
 -Wall -Wextra -Werror
 ```
 
-During development, treat warnings as errors.
+During development, you can treat warnings as errors.
 
 ```
 -Werror
