@@ -1,4 +1,8 @@
-# C projects by HrafnSognir
+<p align="left">
+  <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/cbannr.svg" width="50%">
+</p>
+
+
 #### Exploring low-level programming through small C projects.
 
 [![C](https://custom-icon-badges.demolab.com/badge/--%23282828.svg?logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
@@ -10,7 +14,7 @@
 ---
 
 ### **_Current Focus:_**
-- C fundamentals
+• C fundamentals
 
 ### **_Planed Projects:_**
 - TO-DO CLI tool
