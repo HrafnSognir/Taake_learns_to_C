@@ -108,6 +108,10 @@ Don't leave raw numbers "hidden" in code. Use named constants or enums.
 ```
 const int MAX_ENEMIES = 25;
 
+enum {
+    MAX_ENEMIES = 25
+};
+
 for (int enemy = 0; enemy < MAX_ENEMIES; enemy++) {
     spawn_enemy(enemy);
 }
