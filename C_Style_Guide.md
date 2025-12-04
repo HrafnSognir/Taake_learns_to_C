@@ -1,8 +1,8 @@
 # **_C Style Guide_**
 
-This style guide is based on the Google C style, trimmed down and adjusted
-for clarity and practical day-to-day use in small projects and hobby games/tools development.  
-The goal is simple: readable, maintainable and consistent code.
+This style guide is a trimmed-down, K&R-inspired approach to C, updated with modern safety practices.<br>
+It is designed for clarity and practical day-to-day use in small projects and hobby game/tool development. <br>
+The goal is simple: readable, maintainable, and consistent code.
 
 ---
 
